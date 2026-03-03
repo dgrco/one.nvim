@@ -1,8 +1,9 @@
 # one.nvim
 
-A Neovim theme inspired by OneDark.
+A Neovim theme inspired by Atom One Dark.
 
-<img width="1535" height="1057" alt="image" src="https://github.com/user-attachments/assets/b8778e43-e235-4510-b568-c9a66dd748d1" />
+<img width="1427" height="1031" alt="image" src="https://github.com/user-attachments/assets/fab3b28a-ed96-4964-9e24-a94366470edf" />
+
 
 ## Installation
 
